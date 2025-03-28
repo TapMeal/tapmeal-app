@@ -2,7 +2,7 @@
 
 ## Download App
 ### TapMeal-POS-Release-http.apk
-#### https://github.com/TapMeal/tapmeal-app/releases/download/v1.7.9/TapMeal-POS-Release-http.apk
+#### [Download Latest APK HTTP](https://github.com/TapMeal/tapmeal-app/releases/latest/download/TapMeal-POS-Release-http.apk)
 
 ### TapMeal-POS-Release-https.apk
-#### https://github.com/TapMeal/tapmeal-app/releases/download/v1.7.9/TapMeal-POS-Release-https.apk
+#### [Download Latest APK HTTPS](https://github.com/TapMeal/tapmeal-app/releases/latest/download/TapMeal-POS-Release-https.apk)
